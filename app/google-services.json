@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632488353353",
+    "project_id": "fir-afternoon-ec23c",
+    "storage_bucket": "fir-afternoon-ec23c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632488353353:android:389670a314f1768af4e998",
+        "android_client_info": {
+          "package_name": "com.example.firebaseafter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632488353353-lho2dhifi3f4h30e68idcp6m5p5gss7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBcyCXHpKqgXPPZw6GXEJayf--7VeQgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632488353353-lho2dhifi3f4h30e68idcp6m5p5gss7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
